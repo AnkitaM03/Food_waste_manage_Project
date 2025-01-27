@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Food waste management system
 <!-- <img src="img/coverimage.jpeg"> -->
 <p>  The basic concept of this project  Food Waste Management is to collect theexcess/leftover food from donors such as hotels, restaurants, marriage halls, etc and distribute to  the  needy people .</p>
@@ -56,40 +55,3 @@
 
 <a href="https://kishor-23.github.io/food-donate/index.html" > view demo</a>
 
-=======
-# Food_waste_manage_Project
-A web-based application designed to rescue leftover food from big parties or hotels and distribute it to those in need. This system helps reduce food waste and combat hunger by connecting donors and volunteers through an intuitive platform.
-
-
-🌟 Features
-Food Donation Management:
-Easily register leftover food items for donation.
-
-Real-Time Updates:
-Track the status of food pickups and deliveries.
-
-Volunteer Coordination:
-Enable volunteers to accept and manage delivery tasks.
-
-Donor & Recipient Profiles:
-Manage accounts for food donors and needy recipients.
-
-Interactive Dashboard:
-Display donation stats, delivery progress, and user activity.
-
-Responsive Design:
-Accessible on desktops, tablets, and mobile devices.
-
-🛠️ Technology Stack
-Frontend:
-
-HTML
-CSS
-JavaScript
-Backend:
-
-PHP
-Database:
-
-MySQL
->>>>>>> 997f7c9818409d0131c913e3476e40193182d6b4
